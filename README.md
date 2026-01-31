@@ -8,7 +8,7 @@ Siga **exatamente** os passos abaixo para utilizar o programa corretamente.
 
 Faça o download do IceCream pelo link abaixo:
 
-➡️ **[https://drive.google.com/drive/folders/1-2P6lqfjWZqONKEjfKZ4Pj2-JRaykjUN?usp=sharing]**
+➡️ **[TUTORIAL E DOWNLOAD](https://drive.google.com/drive/folders/1-2P6lqfjWZqONKEjfKZ4Pj2-JRaykjUN?usp=sharing)**
 
 Após o download, **instale normalmente** no seu computador.
 
@@ -17,6 +17,9 @@ Após o download, **instale normalmente** no seu computador.
 ## 2️⃣ Procedimento Inicial
 
 Depois de instalar o IceCream, siga **o mesmo procedimento mostrado no vídeo** disponibilizado junto ao produto.
+
+🎥 **Vídeo tutorial:**
+O link do vídeo de instalação está disponível junto ao produto. Assista e siga exatamente os mesmos passos antes de continuar.
 
 ⚠️ **Não pule essa etapa.** Ela é necessária para o funcionamento correto.
 
@@ -33,6 +36,11 @@ Depois de instalar o IceCream, siga **o mesmo procedimento mostrado no vídeo** 
 
 * Aperte **OK somente quando o jogo já estiver aberto**
 * Se apertar antes, o programa não vai injetar corretamente
+
+⚠️ **ATENÇÃO:**
+
+* **Nunca deixe o loader aberto junto com o jogo**
+* Após aparecer a mensagem pedindo para apertar **OK**, **feche o loader imediatamente**
 
 ---
 
